@@ -4,9 +4,9 @@ This project analyzes sales performance, inventory trends, customer retention, a
 ---
 
 ## **Table of Contents**
-- Introduction
-- SQL Queries & Results
-- Insights & Recommendations
+1. Introduction
+2. SQL Queries & Results
+3. Insights & Recommendations
 
 ---
 
