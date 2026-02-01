@@ -1,4 +1,4 @@
-# Analyze Bicycle Manufacturer Sales Performance Using SQL
+# Analyze Bicycle Manufacturer Sales Performance Using SQL (BigQuery)
 
 <img width="800" height="480" alt="Bicycle Manufacturer Sales Analysis" src="https://github.com/user-attachments/assets/600fe11b-d913-45ee-a065-893f3ed396c6" />
 
